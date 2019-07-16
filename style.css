@@ -1,0 +1,17 @@
+head {
+
+    font-size: 100px;
+    color: seashell;
+    background-color: magenta;
+}
+
+h1{
+    font-size: 100px;
+    color: gray;
+}
+
+h2{
+    font-size: 150px;
+    color: gray;
+    background-color: magenta;
+}
